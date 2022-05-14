@@ -1,5 +1,7 @@
 .App {
+  background-color: #ededed;
   text-align: center;
+  font-family: Proxima Nova,-apple-system,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;
 }
 
 .App-logo {
@@ -14,7 +16,6 @@
 }
 
 .App-header {
-  background-color: #282c34;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
