@@ -3,7 +3,7 @@ import "./Sidebar.css";
 import { Link } from "react-router-dom";
 import { BsHouse, BsPersonCircle, BsHeadset, BsCashCoin,
   BsBoxArrowRight, BsWallet2, BsCardList, BsArrowLeftRight, BsBasket,
-    BsLink45Deg, BsClipboardData, BsShop, BsPhone } from "react-icons/bs";
+    BsLink45Deg, BsClipboardData, BsShop, BsPhone, BsChevronRight } from "react-icons/bs";
 
 
 function Sidebar() {
@@ -19,7 +19,7 @@ function Sidebar() {
             </div>
             <div className='sidebar__left__text'>
                 <p>Hola Agustín</p>
-                <div>Nivel 4 - Mercado Puntos </div>
+                <div>Nivel 4 - Mercado Puntos <div className="sidebar__left__text__icon"><BsChevronRight/></div></div>
             </div>
       </div>
         <div className="sidebar__mainpanel__container">

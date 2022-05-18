@@ -49,11 +49,25 @@
     padding-bottom: 2px;
     font-size: 12px;
     font-weight: 400;
+    padding-left: 2px;
 }
 
 .sidebar__left__text div{
-    font-size: 14px;
+    align-items: center;
+    display: flex;
+    padding: 2px 0 2px 4px;
+    font-size: 13px;
     font-weight: 600;
+    border-radius: 5px;
+}
+
+.sidebar__left__text div{
+    
+}
+
+.sidebar__left__text div:hover{
+    background-color: #009ee3;
+
 }
 
 .sidebar__mainpanel__container{

@@ -3,7 +3,7 @@
     border-radius: 7px;
     color: black;
     background-color: white;
-    width: 350px;
+    width: 360px;
     display: flex;
     flex-direction: column;
     box-shadow: 0px 4px 50px rgba(0, 0, 0, 0.087);
@@ -22,7 +22,7 @@
 .detallecuenta__barra{
     position: relative;
     margin-left: -14px;
-    width: 350px;
+    width: 359px;
     border-bottom: 1px solid rgba(128, 128, 128, 0.263);
 }
 
