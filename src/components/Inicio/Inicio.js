@@ -1,4 +1,5 @@
 import React from 'react'
+import DescubriMas from './DescubriMas';
 import DetalleCuenta from './DetalleCuenta';
 import "./Inicio.css"
 import Movements from './Movements.js';
@@ -8,6 +9,7 @@ function Inicio() {
     <div className='inicio'>
         <div className='inicio__left'>
             <DetalleCuenta/>
+            <DescubriMas/>
         </div>
             <Movements/>
     </div>

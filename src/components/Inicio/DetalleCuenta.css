@@ -33,6 +33,7 @@
 }
 
 .detallecuenta__buttons div{
+    cursor: pointer;
     font-size: 13px;
     border-radius: 5px;
     padding: 7px 30px;
@@ -41,14 +42,17 @@
 }
 
 .detallecuenta__buttons div:hover{
+    transition: .2s;
     background-color:rgba(71, 154, 209, 0.357) ;
 }
 
 .detallecuenta__container__top{
+    cursor: pointer;
     padding: 15px 20px 0 15px;
 }
 
 .detallecuenta__container__mid{
+    cursor: pointer;
     padding: 0px 20px 0 15px;
 }
 
@@ -57,10 +61,12 @@
 }
 
 .detallecuenta__container__top:hover{
+    transition: .2s;
     background-color: #f5f5f5;
 }
 
 .detallecuenta__container__mid:hover{
+    transition: .2s;
     background-color: #f5f5f5;
 }
 
