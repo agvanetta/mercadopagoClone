@@ -28,3 +28,75 @@
 .header__right div{
     cursor: pointer;
 }
+
+.header__right__moreinfo{
+    box-shadow:  .2px 2px 0 rgb(0 0 0 / 32%);
+    width: 419px;
+    color: black;
+    border-radius: 7px;
+    background-color: white;
+    margin-top: 40px;
+    display: flex;
+    right: 43px;
+    top: 5px;
+    flex-direction: column;
+}
+
+.header__right__moreinfo__1{
+    
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    background-color: #009ee3;
+    color: white;
+    margin-bottom: 0;
+}
+
+.header__right__moreinfo__1 span{
+    margin-bottom: -12px;
+    font-size: 20px;
+    margin-right: -3px;
+}
+
+.header__right__moreinfo__2{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    border-bottom: 1px solid #ededed;
+    padding: 0 20px;
+    line-height: 40px;
+    color: #333;
+    margin: 0;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.header__right__moreinfo__2 span{
+    font-size: 20px;
+}
+
+.header__right__moreinfo__3{
+    justify-content: center;
+    padding: 24px 16px;
+    display: flex;
+    align-items: center;
+    
+}
+
+.header__right__moreinfo__3 h2{
+    text-align: start;
+    font-size: 19px;
+    color: #333;
+    font-weight: 500;
+}
+
+.header__right__moreinfo__3 p{
+    font-size: 11px;
+    font-weight: 400;
+    color: #999;
+}
+
+.header__right__moreinfo__img{
+    padding-right: 30px;
+    width: 60px;
+}
