@@ -20,9 +20,9 @@ function DescubriMas() {
                 <h1>ESTA PAGINA ES UN CLON CON REACTJS</h1>
             </div>
             <img
-                className='descubrimas__carousel'
+                className='descubrimas__secondblock__img'
                 src={Carousel1}
-                alt='img_profile'
+                alt='img_carousel1'
                 />
         </div>
     </div>

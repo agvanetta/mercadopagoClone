@@ -73,7 +73,8 @@
 .detallecuenta__dinero{
     display: flex;
     justify-content: space-between;
-    padding: 10px 5px 0 5px;
+    padding: 0px 5px 0 0px;
+    align-items: center;
 }
 
 .detallecuenta__dinero__numeros{
