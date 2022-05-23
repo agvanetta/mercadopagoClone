@@ -38,7 +38,7 @@ function Header() {
               <div className='header__right__moreinfo__1'>
               <span><BsCaretUpFill/></span>
               </div>
-
+            
               <div className='header__right__moreinfo__2'>
                 <div>Notificaciones</div>
                 <span>⚙</span>

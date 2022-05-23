@@ -13,6 +13,12 @@
     border-bottom: 1px solid rgba(128, 128, 128, 0.263);
 }
 
+.sidebar__icons{
+    font-size: 20px;
+    padding-right: 15px;
+    display: flex;
+}
+
 .sidebar__left{
     /* position: fixed; */
     position: absolute;
@@ -83,7 +89,7 @@
     font-weight: 600;
     display: flex;
     flex-direction: column;
-    padding: 10px 10px 10px 0;
+    margin: 10px 0px 10px 0;
 }
 
 .sidebar__mainpanel__options{
@@ -96,7 +102,7 @@
     text-align: start;
 }
 
-.sidebar__mainpanel__options:hover{
+.links:hover{
     background-color: rgba(234, 234, 234, 0.515);
     transition: .1s;
 }
@@ -115,14 +121,11 @@
 }
 
 .links{
+    width: 100%;
     text-decoration: none;
 }
 
     /* border-left-style: solid; */
-.sidebar__icons{
-    font-size: 25px;
-    padding-right: 15px;
-    display: flex;
-}
+
 
 @media screen and (max-width: 850px) {}

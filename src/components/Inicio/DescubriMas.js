@@ -1,6 +1,8 @@
 import React from 'react'
 import "./DescubriMas.css"
-import Carousel1 from './carousel/carousel1.png'
+// import Carousel1 from './carousel/carousel1.png'
+import Carrousel from './Carrousel.js';
+
 
 function DescubriMas() {
   return (
@@ -15,15 +17,17 @@ function DescubriMas() {
             </div>
         </div>
         <div className='descubrimas__secondblock'>
+
             <div className='descubrimas__secondblock__text'>
                 <h2>CONVERTITE EN REVENDEDOR</h2>
                 <h1>ESTA PAGINA ES UN CLON CON REACTJS</h1>
             </div>
-            <img
+          <Carrousel/>
+            {/* <img
                 className='descubrimas__secondblock__img'
                 src={Carousel1}
                 alt='img_carousel1'
-                />
+                /> */}
         </div>
     </div>
   )
