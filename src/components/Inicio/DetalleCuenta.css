@@ -84,13 +84,13 @@
 
 .detallecuenta__dinero__numeros__1{
     padding-right: 4px;
-    font-size: 24px;
+    font-size: 22px;
     font-weight: 600;
 }
 
 .detallecuenta__dinero__numeros__2{
     margin-top: 5px;
-    font-size: 15px;
+    font-size: 14px;
     font-weight: 600;
 
 }
@@ -142,7 +142,7 @@
 }
 
 .detallecuenta__rendimientos__detalle{
-    font-size: 15px;
+    font-size: 13px;
     color: #333;
 }
 
