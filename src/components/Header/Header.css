@@ -103,3 +103,10 @@
     margin-top: -20px;
     margin-right: 10px;
 }
+
+@media screen and (max-width: 996px) {
+    .header{
+        width: 100%;
+        margin-left: unset;
+    }
+}

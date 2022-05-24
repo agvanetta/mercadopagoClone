@@ -19,3 +19,10 @@
     display: flex;
     justify-content: center;
 }
+
+@media screen and (max-width: 996px) {
+    .inicio{
+        width: 100%;
+        margin-left: unset;
+    }
+}
