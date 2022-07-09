@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/mercadopagoClone/static/css/main.d31393d7.css",
-    "main.js": "/mercadopagoClone/static/js/main.1ea14f4f.js",
+    "main.css": "/mercadopagoClone/static/css/main.41d6a031.css",
+    "main.js": "/mercadopagoClone/static/js/main.e28e70ed.js",
     "static/js/787.cc5ad474.chunk.js": "/mercadopagoClone/static/js/787.cc5ad474.chunk.js",
     "static/media/carousel1": "/mercadopagoClone/static/media/carousel1.8cc523879a3bf583b1c0",
     "static/media/carousel3": "/mercadopagoClone/static/media/carousel3.e9f45b37bfa595de9ae5",
     "static/media/carousel4": "/mercadopagoClone/static/media/carousel4.c69ce5140d8e95720442",
     "index.html": "/mercadopagoClone/index.html",
-    "main.d31393d7.css.map": "/mercadopagoClone/static/css/main.d31393d7.css.map",
-    "main.1ea14f4f.js.map": "/mercadopagoClone/static/js/main.1ea14f4f.js.map",
+    "main.41d6a031.css.map": "/mercadopagoClone/static/css/main.41d6a031.css.map",
+    "main.e28e70ed.js.map": "/mercadopagoClone/static/js/main.e28e70ed.js.map",
     "787.cc5ad474.chunk.js.map": "/mercadopagoClone/static/js/787.cc5ad474.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d31393d7.css",
-    "static/js/main.1ea14f4f.js"
+    "static/css/main.41d6a031.css",
+    "static/js/main.e28e70ed.js"
   ]
 }
