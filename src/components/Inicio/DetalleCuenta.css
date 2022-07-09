@@ -86,13 +86,14 @@
     padding-right: 4px;
     font-size: 22px;
     font-weight: 600;
+    width: 77px;
 }
 
 .detallecuenta__dinero__numeros__2{
     margin-top: 5px;
     font-size: 14px;
     font-weight: 600;
-
+    width: 16px;
 }
 
 .detallecuenta__dinero__numeros__icon{
@@ -146,3 +147,26 @@
     color: #333;
 }
 
+.none{
+    display: none;
+}
+
+@media screen and (max-width:900px){
+    .detallecuenta{
+        width: unset;
+    }
+    .inicio__left{
+        width: 90%;
+    }
+}
+
+@media screen and (max-width: 500px){
+    .detallecuenta{
+        margin-right: 0px;
+        width: unset;
+    }
+    .inicio__left{
+        width: 90%;
+    }
+}
+    

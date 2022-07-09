@@ -26,3 +26,12 @@
         margin-left: unset;
     }
 }
+
+
+@media screen and (max-width: 800px) {
+    .inicio__body{
+        flex-direction: column;
+        align-items: center
+    }
+   
+ }

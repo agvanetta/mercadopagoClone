@@ -8,6 +8,12 @@
     position: fixed;
 }
 
+#styleClick{
+    color:#008ad6;
+    border-left:4.5px solid #008ad6;
+    padding-left: 25px;
+}
+
 .sidebar__border{
     margin: 0px 0 0px 24px;
     border-bottom: 1px solid rgba(128, 128, 128, 0.263);

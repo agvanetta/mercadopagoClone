@@ -29,3 +29,8 @@
     margin-left: 15px;
 }
 
+@media screen and (max-width: 500px) {
+    .recomenda, .botonarrepentimiento{
+        margin: 20px 0px;
+    }
+}

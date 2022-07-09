@@ -75,3 +75,20 @@
     text-align: start;
     border-left: 5px solid #009ee3;
 }
+@media screen and (max-width:900px){
+    .descubrimas{
+        width: unset;
+        align-items: center;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .descubrimas{
+        margin-right: unset;
+        width: unset;
+        align-items: center
+    }
+    .descubrimas__secondblock{
+        margin-right: unset;
+    }
+}
